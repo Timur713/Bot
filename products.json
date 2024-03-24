@@ -1,0 +1,60 @@
+{
+    "brand": {
+        "Nike": {
+            "DD3111": [
+                "Nike Blazer Mid 77 Jumbo",
+                "18999",
+                "7",
+                "0"
+            ],
+            "DM1122": [
+                "Nike LeBron Witness",
+                "18999",
+                "12",
+                "0"
+            ]
+        },
+        "adidas": {
+            "IE7175": [
+                "adidas Forum Low",
+                "14999",
+                "20",
+                "0"
+            ],
+            "FZ2085": [
+                "adidas Forum Mid",
+                "11999",
+                "20",
+                "0"
+            ],
+            "IF0469": [
+                "adidas BYW Select",
+                "20999",
+                "8",
+                "0"
+            ]
+        },
+        "PUMA": {
+            "39592001": [
+                "PUMA Morphic Retro",
+                "100000",
+                "19",
+                "0"
+            ],
+            "39590802": [
+                "PUMA Velophasis Always On",
+                "16999",
+                "18",
+                "0"
+            ]
+        },
+        "Reebok": {
+            "100208160": [
+                "Reebok Zig Kinetica 2.5 Edge X",
+                "14999",
+                "100",
+                "0"
+            ]
+        }
+    }
+}
